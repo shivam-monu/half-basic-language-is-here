@@ -1,4 +1,4 @@
-#include<stdio.h>{
+#include<stdio.h>
 
 int sum_natural(int);
 

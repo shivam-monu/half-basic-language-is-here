@@ -12,6 +12,7 @@ int main(){
    {
     if(n%i==0){
         prime=1;
+        break;
     }
     i++;
    }
